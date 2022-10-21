@@ -22,10 +22,9 @@
   - [Screenshots](#screenshots)
   - [Notebooks](#notebooks)
   - [Approaches](#approaches)
-  - [Strategies](#strategies)
+  - [Models](#models)
   - [Tests](#tests)
-  - [Authors](#authors)
-  - [Show us your support](#show-us-your-support)
+  - [Author](#author)
 
 ## Introduction
 
@@ -49,23 +48,23 @@ There are two datasets available for this project.
 The first one is the table that contains information about the completed orders
 >   Column             Non-Null Count   Dtype 
 ---  ------            --------------   ----- 
- 0   Trip ID           536020 non-null  int64 
- 1   Trip Origin       536020 non-null  address
- 2   Trip Destination  536020 non-null  address
- 3   Trip Start Time   534369 non-null  timestamp
- 4   Trip End Time     536019 non-null  timestamp
+ > 0   Trip ID           536020 non-null  int64 
+ > 1   Trip Origin       536020 non-null  address
+ > 2   Trip Destination  536020 non-null  address
+ > 3   Trip Start Time   534369 non-null  timestamp
+ > 4   Trip End Time     536019 non-null  timestamp
  
 The second one is the table that contains delivery requests by clients (completed and unfulfilled) 
 >   Column         Non-Null Count    Dtype  
 ---  ------         --------------    -----  
- 0   id                1557740 non-null  int64  
- 1   order_id          1557740 non-null  int64  
- 2   driver_id         1557740 non-null  int64  
- 3   driver_action     1557740 non-null  object 
- 4   lat               1557740 non-null  float64
- 5   lng               1557740 non-null  float64
- 6   created_at        0 non-null        float64
- 7   updated_at        0 non-null        float64
+> 0   id                1557740 non-null  int64  
+> 1   order_id          1557740 non-null  int64  
+> 2   driver_id         1557740 non-null  int64  
+> 3   driver_action     1557740 non-null  object 
+> 4   lat               1557740 non-null  float64
+> 5   lng               1557740 non-null  float64
+> 6   created_at        0 non-null        float64
+> 7   updated_at        0 non-null        float64
 
 ## Requirements
 
@@ -93,7 +92,7 @@ You can find the full list of requirements in the requirements.txt file
 
 > All the scripts and modules used for this project relating to interactions with kafka, airflow, and other frameworks along with default parameters and values used will be found here, in the scripts folder.
 
-## Strategies
+## Models
 
 > All the back testing strategies and algorithms are found here in the strategies folder.
 
@@ -101,12 +100,12 @@ You can find the full list of requirements in the requirements.txt file
 
 > All the unit and integration tests are found here in the tests folder.
 
-## Authors
+## Author
 
 > 👤 **Birhanu Gebisa**
 >
 > - [Email](mailto:birhanugebisa@gmail.com), [GitHub](https://github.com/BirhanuGebisa), [LinkedIn](https://www.linkedin.com/in/birhanu-gebisa2721/)
 
-## Show us your support
+> Show us your support
 
 > Give us a ⭐ if you like this project, and also feel free to contact us at any moment.
