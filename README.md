@@ -28,17 +28,29 @@
 
 ## Introduction
 
-> Data is everywhere. In order to get the best out of it, one needs to extract it from several sources, make required transformations and 
+> This week's challenge task interim report focuses on causal inference using real-world Nigeria
+Gokada delivery driver service data. Gokada is one of the largest last-mile delivery services in
+Nigeria.
 
 ## Overview
 
-> A startup called Mela (our client for this week’s project) wants to make it simple for everyone to enter the world of cryptocurrencies and general stock market trade. It also wants to give investors a reliable source of investment while lowering the risk associated with trading cryptocurrencies.
+> Current business challenges center on the causal inference of our client Gokada, Nigeria's largest
+last-mile delivery service. Gokada Works is partnered with motorbike owners and drivers to
+deliver parcels across Lagos, Nigeria. Gokada has completed more than a million deliveries in
+less than a year with a fleet of over 1200 riders. One key issue Gokada has faced as it expands its
+service is the suboptimal placement of pilots (Gokada calls their motor drivers pilots) and clients
+who want to use Gokada to send their parcels. As a result, a large number of delivery requests
+have gone unfulfilled.
 
 
 
 ## Objective
 
-> This objective of this project is very straightforward: design and build a robust, reliable, large-scale 
+> This objective of this project is very straightforward: design and build a robust, reliable, large-scale It is working on its data to help it understand the primary causes of
+unfulfilled requests, as well as come up with solutions that recommend driver locations that
+increase the fraction of complete orders. Since drivers are paid based on the number of requests
+they accept, this solution will help Gokada business grow both in terms of client satisfaction and
+increased business volume.
 
 ## Data
 
