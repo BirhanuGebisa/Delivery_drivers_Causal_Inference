@@ -94,7 +94,8 @@ You can find the full list of requirements in the requirements.txt file
 
 ## Screenshots
 
-> The detailed use and implementation of the pipelines using Apache Airflow, pipeline summary and interaction, kafka clusters, interaction with the topics on the kafka clusters, front-end images and usage can all be found in this screenshots folder as image files.
+> The detailed use and implementation of the pipelines drivers location optimization with Causal Inference
+usage can all be found in this screenshots folder as image files.
 
 ## Notebooks
 
@@ -102,11 +103,12 @@ You can find the full list of requirements in the requirements.txt file
 
 ## Approaches
 
-> All the scripts and modules used for this project relating to interactions with kafka, airflow, and other frameworks along with default parameters and values used will be found here, in the scripts folder.
+> All the scripts and modules used for this project relating to interactions drivers location optimization with Causal Inference
+ and other frameworks along with default parameters and values used will be found here, in the scripts folder.
 
 ## Models
 
-> All the back testing strategies and algorithms are found here in the strategies folder.
+> All the drivers location optimization with Causal Inference are found here in the strategies folder.
 
 ## Tests
 
